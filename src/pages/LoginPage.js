@@ -155,14 +155,14 @@ function Login() {
             </Button>
           </div>
 
-           {/*{isLogin && (
+           {isLogin && (
             <Typography align="center" variant="body2">
               OR
             </Typography>
-          )}*/}
+          )}
 
           {/* Sign In With Google  */}
-          {/* <div className="login__formGroup">
+           <div className="login__formGroup">
             {isLogin && (
               <Button
                 variant="contained"
@@ -175,7 +175,7 @@ function Login() {
                 </Typography>
               </Button> 
             )}
-          </div>*/}
+          </div>
         </form>
 
         {/* Forgot Password Link  */}
@@ -210,7 +210,7 @@ function Login() {
           <Typography align="center" variant="body2">
             {" "}
             New? Create an Account &nbsp;
-            <Link
+            <Link 
               component="button"
               color="secondary"
               variant="subtitle2"
