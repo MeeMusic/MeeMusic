@@ -78,7 +78,7 @@ function Login() {
 
   return (
     <div className="login user-select-none">
-      <Typography variant="h1" color="secondary" align="center">
+      <Typography variant="h2" color="secondary" align="center">
         MeeMusic
       </Typography>
       <div className="login__wrapper user-select-none">
