@@ -4,7 +4,7 @@ function Spinner({ showText = false }) {
   return (
     <div className="login user-select-none">
       {showText && (
-        <Typography variant="h1" color="secondary" align="center">
+        <Typography variant="h2" color="secondary" align="center">
           MeeMusic
         </Typography>
       )}
