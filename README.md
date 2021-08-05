@@ -11,11 +11,14 @@ Technology Used
 
 
 ## Features
+
 1.User can Upload the Songs from thier Devices.
 
 2.User can add songs to their Favourites List or can create their own Playlist.
 
 3.The Recently Played Songs are stored in Local Storage.
 
-4.You can listen to music uninterrupted while using other apps or when your screen is off.
+4.User Can add  songs to Queue . The next song will be the song you placed in the queue.
+
+5.You can listen to music uninterrupted while using other apps or when your screen is off.
 
