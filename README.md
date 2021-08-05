@@ -23,5 +23,5 @@ Application Is [Live Here](https://meemusic.netlify.app/)
 
 4.User Can add  songs to Queue . The next song will be the song you placed in the queue.
 
-5.You can listen to music uninterrupted while using other apps or when your screen is off.
+5.User can listen to music uninterrupted while using other apps or when your screen is off.
 
