@@ -26,6 +26,9 @@ Application Is [Live Here](https://meemusic.netlify.app/)
 5.User can listen to music uninterrupted while using other apps or when your screen is off.
 
 <br/>
+
+# Firebase setup
+
 * Firebase specifics
   * `API_KEY=<value>`
   * `AUTH_DOMAIN=<value>`
@@ -33,3 +36,4 @@ Application Is [Live Here](https://meemusic.netlify.app/)
   * `STORAGE_BUCKET=<value>`
   * `MESSAGING_SENDER_ID=<value>`
   * `APP_ID=<value>`
+  
