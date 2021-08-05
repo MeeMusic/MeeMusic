@@ -10,7 +10,8 @@ Application Is [Live Here](https://meemusic.netlify.app/)
 [<img title="Material-UI" align="left" alt="Material-UI" width="45px" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" />](https://material-ui.com/)
 
 
-</br>
+
+<br /><br />
 
 ## Features
 
