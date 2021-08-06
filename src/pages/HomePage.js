@@ -36,11 +36,10 @@ function Home() {
       <ArtistsList />
 
       <AllSongs />
-      <footer>
+     <footer>
       <div>
-      Developed By 
-          <a href="https://github.com/VedantWankhade"> VEDANT </a> and 
-          <a href="https://github.com/omjawade"> OM </a>
+      Made With  
+          <a href="https://github.com/MeeMusic"> ❤️ </a> 
           </div> 
           
         </footer>
@@ -51,7 +50,7 @@ function Home() {
           padding: 0 20px;
           border-top: 1px solid #eaeaea;
           display: flex;
-          justify-content: space-between;
+          justify-content: center;
           align-items: center;
         }
         `}</style>
